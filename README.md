@@ -15,12 +15,12 @@ this I created a breakdown of scores of schools by spending, size, and type usin
 
 * How is the district summary affected?
 
-The district summary would improve slightly because the change in grades at Thomas High School improved as a result of the replacement. It would not have a particularly large impact on this value because the analysis is on 15 total schools.
+	The district summary would improve slightly because the change in grades at Thomas High School improved as a result of the replacement. It would not have a particularly 	large impact on this value because the analysis is on 15 total schools.
 ![](Resources/district_summary.PNG)
 
 * How is the school summary affected?
 
-Thomas High School dramatically improved after the replacement.
+	Thomas High School dramatically improved after the replacement.
 
 Before replacement:
 ![](Resources/school_summary.PNG)
@@ -30,7 +30,7 @@ After replacement:
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-Thomas High School moved from 9th place to 7th place in math, from last place to 3rd place in reading, and from 8th place to 2nd in overall pass rate.
+	Thomas High School moved from 9th place to 7th place in math, from last place to 3rd place in reading, and from 8th place to 2nd in overall pass rate.
 
 
 
